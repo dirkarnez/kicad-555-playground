@@ -10,6 +10,8 @@ kicad-555-playground
 - Monostable mode = one stable state = produces one pulse of a set length in response to a trigger input such as a push button, will automatically switch off after a set time.
 - Bistable Mode  = 2 stables state
 
+![](./images/astable.jpg)
+
 ### Very good tutorials
 - [How 555 timers Work - The Learning Circuit - YouTube](https://www.youtube.com/watch?v=oZzjmAbyyIQ)
 - [555 Timer Modes Explained - The Learning Circuit - YouTube](https://www.youtube.com/watch?v=qfWIjb48mjE)
