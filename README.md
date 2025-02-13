@@ -5,6 +5,9 @@ kicad-555-playground
 - [Led Fader Using 555 Timer Ic](https://www.electronicwings.com/users/AshishAdhikari/projects/3100/led-fader-using-555-timer-ic)
 - [MuMashhour/NE555-SPICE-Model: This project contains a Spice model for the popular NE555 timer IC, which is widely used in electronic circuits for generating accurate time delays or oscillations.](https://github.com/MuMashhour/NE555-SPICE-Model)
 
+### Datasheet
+- https://www.ti.com/lit/ds/symlink/ne555.pdf
+
 ### Notes
 - Astable Circuit = no stable state = continually switches state between high and low without without any intervention from the user, called a 'square' wave
 - Monostable mode = one stable state = produces one pulse of a set length in response to a trigger input such as a push button, will automatically switch off after a set time.
